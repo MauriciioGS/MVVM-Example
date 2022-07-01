@@ -1,4 +1,4 @@
-package com.unam.mvvmexample.model
+package com.unam.mvvmexample.data.model
 
 import com.google.gson.annotations.SerializedName
 import java.util.*

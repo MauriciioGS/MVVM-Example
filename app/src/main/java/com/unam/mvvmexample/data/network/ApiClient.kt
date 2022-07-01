@@ -1,6 +1,6 @@
-package com.unam.mvvmexample.network
+package com.unam.mvvmexample.data.network
 
-import com.unam.mvvmexample.model.CharacterModel
+import com.unam.mvvmexample.data.model.CharacterModel
 import retrofit2.Response
 import retrofit2.http.GET
 

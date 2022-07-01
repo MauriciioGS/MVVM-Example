@@ -1,4 +1,4 @@
-package com.unam.mvvmexample.network
+package com.unam.mvvmexample.data.network
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory

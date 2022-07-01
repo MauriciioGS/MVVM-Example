@@ -1,9 +1,8 @@
-package com.unam.mvvmexample.network
+package com.unam.mvvmexample.data.network
 
-import com.unam.mvvmexample.model.CharacterModel
+import com.unam.mvvmexample.data.model.CharacterModel
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
-import retrofit2.create
 
 class CharacterService {
     private val retrofit = RetrofitBuilder.getRetrofit()
